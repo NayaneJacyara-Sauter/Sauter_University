@@ -1,3 +1,5 @@
+A descrição está clara e bem estruturada. Aqui está a versão final com uma pequena revisão para garantir a clareza e a consistência:
+
 # Projeto CI/CD para Sauter University
 
 Este repositório contém apenas o arquivo HTML (`index.html`) de uma página simples para a Sauter University.
@@ -16,6 +18,7 @@ O objetivo deste projeto é desafiar você a criar uma solução completa de ent
 3. **Configurar o fluxo de trabalho de CI/CD**: Criar um fluxo de trabalho que automatize a construção e publicação da imagem Docker.
 4. **Testar a solução**: Fazer um push no repositório para verificar se o fluxo de trabalho funciona corretamente e se a imagem é publicada com sucesso.
 
-## Docker Hub
+## Depois de concluir
 
-compatilher também no readme a url onde foi publicado a imagem docker.
+Adicione ao formulário o link do GitHub com o repositório público e o link do Docker Hub onde a imagem foi criada: [Formulário](https://docs.google.com/forms/d/e/1FAIpQLSc7k0hCYzMQtNA9ClYTNJTBlLUq4GUtGz-TclCFiE5ZguAXfA/viewform?usp=sf_link).
+
