@@ -1,4 +1,3 @@
-A descrição está clara e bem estruturada. Aqui está a versão final com uma pequena revisão para garantir a clareza e a consistência:
 
 # Projeto CI/CD para Sauter University
 
@@ -20,5 +19,6 @@ O objetivo deste projeto é desafiar você a criar uma solução completa de ent
 
 ## Depois de concluir
 
-Adicione ao formulário o link do GitHub com o repositório público e o link do Docker Hub onde a imagem foi criada: [Formulário](https://docs.google.com/forms/d/e/1FAIpQLSc7k0hCYzMQtNA9ClYTNJTBlLUq4GUtGz-TclCFiE5ZguAXfA/viewform?usp=sf_link).
+Adicione ao formulário o link do GitHub com o repositório público e o link do Docker Hub onde a imagem foi criada: [Formulário]
+(https://forms.gle/aubYRu3Ue1fUGBQR8).
 
